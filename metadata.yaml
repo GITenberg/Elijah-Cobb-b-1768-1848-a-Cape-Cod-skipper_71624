@@ -1,0 +1,36 @@
+_repo: Elijah-Cobb-b-1768-1848-a-Cape-Cod-skipper_71624
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Paine, Ralph Delahaye
+    alias: Paine, Ralph D. (Ralph Delahaye)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '1113'
+    url: http://www.gutenberg.org/2009/agents/1113
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
+creator:
+  author:
+    agent_name: Cobb, Elijah
+    gutenberg_agent_id: '56308'
+    url: http://www.gutenberg.org/2009/agents/56308
+description: ''
+gutenberg_issued: '2023-09-12'
+identifiers:
+  gutenberg: '71624'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.727182
+pgterms:marc905: 20211216124334cobb
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Carol Brown, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew Haven, CT :$bYale University Press, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Elijah Cobb : $b 1768-1848 a Cape Cod skipper'
+url: http://www.gutenberg.org/ebooks/71624
