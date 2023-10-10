@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '1113'
     url: http://www.gutenberg.org/2009/agents/1113
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
+covers:
+- cover_type: archival
+  image_path: 71624-h/images/cover.jpg
 creator:
   author:
     agent_name: Cobb, Elijah
     gutenberg_agent_id: '56308'
     url: http://www.gutenberg.org/2009/agents/56308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71624#Elijah-Cobb-b-1768-1848-a-Cape-Cod-skipper
 gutenberg_issued: '2023-09-12'
 identifiers:
   gutenberg: '71624'
